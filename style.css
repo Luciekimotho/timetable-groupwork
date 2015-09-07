@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.morning{
+	background-color: #808080;
+}
+
+.day{
+	background-color: #00ccff;
+}
+
+.night{
+	background-color: #000019;
+	color: #ffffff;
+}
